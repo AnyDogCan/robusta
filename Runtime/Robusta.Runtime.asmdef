@@ -1,0 +1,15 @@
+{
+    "name": "Robusta",
+    "references": [
+        "GUID:847b179520b009e4c8d15c296b1cbf35"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
